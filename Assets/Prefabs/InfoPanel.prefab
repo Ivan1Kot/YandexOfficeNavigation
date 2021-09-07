@@ -1849,8 +1849,8 @@ MonoBehaviour:
   _slideTime: 0.1
   _extraSlideFinalPosition: {x: 0, y: 875}
   _contentPanel: {fileID: 6873721425736173769}
-  _label: {fileID: 0}
-  _text: {fileID: 0}
+  _label: {fileID: 6873721424630913558}
+  _text: {fileID: 6873721424775175293}
 --- !u!1 &6873721426063694955
 GameObject:
   m_ObjectHideFlags: 0
